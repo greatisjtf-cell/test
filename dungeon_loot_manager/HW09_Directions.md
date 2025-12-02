@@ -591,7 +591,6 @@ Do not use any of the following in your final submission:
 
 Only discussion of the assignment at a **conceptual high level** is allowed. You can discuss course concepts and assignments broadly; that is, at a conceptual level to increase your understanding. If you find yourself dropping to a level where specific Java code is being discussed, that is going too far.
 
-**You MAY NOT use code generation tools to complete this assignment.** This includes generative AI tools such as ChatGPT or GitHub Copilot.
 
 ---
 
